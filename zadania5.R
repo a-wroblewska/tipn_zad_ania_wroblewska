@@ -24,5 +24,10 @@ movies %>% select(Animation, year) %>% filter(year == 1990)
 
 movies %>% select(Drama, length) %>% arrange(desc(length))
 
+# Zad 5-6
+
+ mpaa_rating <- group_by(movies, mpaa)
+summarise(mpaa_rating, mean(rating), sd(rating))
+
 
 
