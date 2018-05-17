@@ -21,7 +21,7 @@ output:
 1. Szpic miniaturowy pomeranian jest odporny, źle znosi jedynie upały i silne nasłonecznienie.
 1. Bardzo przywiązany do opiekuna, wrażliwy i oddany, nie lubi zostawać na długo sam; najchętniej stale towarzyszyłby właścicielowi.
 
-###Możliwe maści szpica:
+##Możliwe maści szpica:
 
 - czarny
 - brązowy
